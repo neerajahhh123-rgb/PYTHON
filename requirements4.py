@@ -1,0 +1,9 @@
+mark1="85"
+mark2="90"
+mark3="80"
+mark1=int(mark1)
+mark2=int(mark2)
+mark3=int(mark3) 
+print(mark1)
+print(mark2)
+print(mark3)
